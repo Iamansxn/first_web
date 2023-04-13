@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: linear-gradient(to left, #5f2c82, #49a09d);
+  color: #fff;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  text-align: center;
+}
+h1 {
+  margin: 60px 0 30px;
+  font-size: 40px;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+nav {
+  background: black;
+  height: 80px;
+  width: 100%;
+}
+
+nav li a {
+  display: inline;
+  line-height: 80px;
+  margin: 13px 20px;
+  font-size: 17px;
+  text-transform: uppercase;
+  color: white;
+  font-style: italic;
+  float: left;
+  margin-left: 20px;
+}
